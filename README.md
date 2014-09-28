@@ -1,6 +1,8 @@
 Data Description
 ====
 
+Raw CSV samples are [here](https://github.com/hackathonBI/CCS/tree/master/sample%20data).
+
 ## Customers
 
 CustomerID|Segment|Currency
