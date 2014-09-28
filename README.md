@@ -27,7 +27,7 @@ ProductID|Description
 
 ## Transactions
 
-Date|Time|CustomerID|CardID|GasStationID|ProductID|Amount|Price
+Date|Time|CustID|CardID|GasStationID|ProdID|Amount|Price
 ----|----|----------|------|------------|---------|------|-----
 2012-01-01| 00:18:00| 41113| 645177| 363| 2|  93.75| 2038.575
 2012-01-01| 02:05:00| 30766| 496967|1083| 2| 132.10| 3002.692
