@@ -1,16 +1,22 @@
 Data Description
 ====
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+## Customers
 
 CustomerID|Segment|Currency
 ----------|-------|--------
-10        | LAM   |EUR
-100       | LAM   |EUR
-1000      | KAM   |CZK
+1        | LAM   |EUR
+2       | LAM   |EUR
+3      | KAM   |CZK
+
+## Gas Stations
+
+SiteID|chainID|Country|Segment
+-|-|-|-
+100|10|CZE|Other
+1000|1|CZE|Premium
+1001|8|CZE|Value for money
+
 
 
 
