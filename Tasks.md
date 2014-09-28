@@ -2,7 +2,7 @@ Possible tasks:
 ====
 
 
-# Loyalty of users and clients
+## Loyalty of users and clients
 
 1. Chain brand preference
   1. Suggest chain brand preference definition by examining frequency distribution of number of purchases at chains by users and by clients
@@ -19,7 +19,7 @@ Possible tasks:
   1. Find out behavioral patterns of users, such as what day of month they typically refill, what is their favorite time of refilling, 
   2. Find out purchasing patterns of users , such as what is the frequency of refilling what is their typical refill volume, what other product do they typically purchase and in what volume (compared to refill volume)
 
-# Churn of clients
+## Churn of clients
 
 Churning clients are considered those who reduced their monthly consumption below 20% of their peak monthly consumption within 2 years
 
