@@ -5,10 +5,10 @@ Possible tasks:
 # Loyalty of users and clients
 
 1. Chain brand preference
-  a. Suggest chain brand preference definition by examining frequency distribution of number of purchases at chains by users and by clients
-  b. Find out groups of users who prefer a certain chain and find out the most preferred chains. Make distinction between those who prefer the same pump station (local entrepreneurs) and those who use the chain at different places.
-	c. Examine changes in size of the groups and churn among the groups within 2012-2014.
-	d. Find out distribution of segments of clients loyal to top 5 chains.
+  1. Suggest chain brand preference definition by examining frequency distribution of number of purchases at chains by users and by clients
+  2. Find out groups of users who prefer a certain chain and find out the most preferred chains. Make distinction between those who prefer the same pump station (local entrepreneurs) and those who use the chain at different places.
+  3. Examine changes in size of the groups and churn among the groups within 2012-2014.
+  4. Find out distribution of segments of clients loyal to top 5 chains.
 2. Chain segment preference
 	a. Suggest chain segment preference definition by examining frequency distribution of number of purchases at chains by users and by clients
 	b. Find out groups of users who prefer segments of chains (“premium”, “value for money”, “discount”, “noname”)
