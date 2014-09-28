@@ -1,5 +1,5 @@
-CCS
-===
+Possible tasks:
+====
 
 
 # Loyalty of users and clients
