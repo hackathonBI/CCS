@@ -12,7 +12,7 @@ CustomerID|Segment|Currency
 ## Gas Stations
 
 SiteID|chainID|Country|Segment
--|-|-|-
+------|-------|-------|-------
 100|10|CZE|Other
 1000|1|CZE|Premium
 1001|8|CZE|Value for money
